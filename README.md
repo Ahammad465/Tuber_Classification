@@ -10,4 +10,4 @@ We design a novel method to apply CNN models to detect and classify TB manifesta
 
 
 ## Dataset Link
-https://www.kaggle.com/saife245/tuberculosis-image-datasets
+https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
